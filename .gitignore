@@ -1,0 +1,5 @@
+scores.dat
+.project
+.classpath
+bin/*
+.settings/*
